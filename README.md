@@ -1,2 +1,73 @@
-# qdd-evaluation-operational-intelligence-assesment
-QDD - Evaluation Operational Assessment of Disclosure Intelligence
+# QDD Evaluation Operational Assessment of Intelligence
+
+### Prototype Version 0.5
+
+**Purpose:** Evaluation of disclosure quality scoring analysis system
+
+## Overview
+
+The most recent metric used in assessment of UFO disclosure community members analyzes the **direction and quality of their intelligence contributions**. This framework evaluates whether working members contribute value to the disclosure mission.
+
+## QDD Evaluation Framework
+
+**Qualitative Directional Disclosure (QDD)** assesses whether an informant provides actionable, forward-pointing guidance that contributes positively to progressing toward full or improved disclosure (e.g., revealing hidden truths, achieving transparency on sensitive topics).
+
+### Purpose & Application
+
+This evaluation rubric distinguishes **high-value disclosures** that provide momentum from those that are merely confirmatory or vague. It enables systematic assessment of sources and contributors in ongoing disclosure events.
+
+## Expanded QDD Scoring Cards Metrics
+
+The following table presents a **crowdsourced, evolving set of proposed metrics** for the **Qualitative Directional Disclosure (QDD) Scoring System**. These metrics are designed as individuating, distinguishing scoring criteria with a primary focus on **evaluationally correct attribution**—that is, assigning positive or negative weight to characteristics that reliably signal genuine forward momentum in disclosure versus narrative occupation, redirection, or theater.
+
+### Key Conventions and Principles
+
+- **Convention in evaluation is followed, not parity in quantity.** Positive and negative indicators are weighted according to their diagnostic power in distinguishing high-value disclosure from low-value or counterproductive activity. There is no requirement for numerical balance between “positive” and “negative” metrics.
+
+- While the QDD prototype draws conceptual and structural inspiration from the **NCI Engineered Reality Scoring System v8.3** (particularly its 20-criterion matrix form), it does **not** seek identical numerical parity or symmetrical coverage. The current list exceeds 20 items because it represents a **larger proposed set for prototyping and refinement**, sourced from community input and adapted specifically to the disclosure domain.
+
+- The ultimate objective is a **lean, directly applicable instrument** containing only those metrics that demonstrate unique diagnostic value within the specific context of disclosure intelligence. Quantity is provisional; **quality and directional clarity** are the sole selection criteria. Ideological or structural parity with the parent NCI system is not a goal.
+
+### Evaluation Discipline and Structural Constraints
+
+Every proposed **QDD metric** must adhere strictly to the following criteria:
+
+- **No metric overlaps another’s function.**
+  Each metric must detect a distinct evaluative signal and cannot be substituted or proxied by any other metric in the set.
+
+- **Each metric answers one question only.**
+  Metrics are atomic and focused; they are not composite bundles requiring multiple interpretive steps.
+
+- **Metrics remain grounded in observable characteristics** of the disclosure artifact or actor, avoiding interpretive layering or subjective aggregation.
+  <br>
+
+### Metric Scorecard
+
+| **QDD Metric**                                   | **Category**            | **QDD Function**                                                                                                    | **Core Question**                                                      | **Example (High / Low)**                                                                                                               |
+| ------------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Causal Advancement**                           | Directional Integrity   | Detects whether a disclosure provides a causal chain that advances disclosure toward verifiable outcomes.           | Does the disclosure lend its vision to verifiable ends?                | **Low:** Asserts importance without causal mechanism.<br>**High:** Explains cause → effect → audits, hearings, or disclosure outcomes. |
+| **Causal Direction**                             | Directional Integrity   | Detects whether the disclosure explains how information advances disclosure rather than merely asserting relevance. | Does the disclosure explain _how_ the information advances disclosure? | **Low:** “This is important.”<br>**High:** Explicit causal chain linking information to action.                                        |
+| **Verifiability Vector**                         | Evidence Integrity      | Detects whether a disclosure creates a path to verification or falsification.                                       | Does the disclosure create a path to verification or falsification?    | **Low:** Unverifiable anecdotes or NDAs.<br>**High:** Documents, dates, actors, or records identifiable for checking.                  |
+| **External Verifiability Path**                  | Evidence Integrity      | Detects whether third parties can independently validate claims.                                                    | Can third parties validate elements independently?                     | **Low:** No external corroboration possible.<br>**High:** Parties self-identify or provide corroborating artifacts.                    |
+| **Dependency Reduction**                         | Disclosure Utility      | Detects whether a disclosure reduces reliance on authority figures.                                                 | Does the disclosure reduce reliance on authority figures?              | **Low:** “Trust me / trust them.”<br>**High:** Enables independent analysis, FOIA, or replication.                                     |
+| **Economic Incentive — Transparency**            | Incentive Integrity     | Detects whether financial interests are disclosed or minimized.                                                     | Are financial interests disclosed or minimized?                        | **Low:** Hidden monetization.<br>**High:** Funding sources disclosed; profit decoupled from disclosure.                                |
+| **Economic Incentive — Conditionality**          | Structural Risk         | Detects whether disclosure is contingent on future investment or funding.                                           | Is investment in a system a condition for outcomes?                    | **Low:** “Disclosure requires new funding/programs first.”<br>**High:** Disclosure proceeds independent of capital allocation.         |
+| **Intelligence Discipline**                      | Intelligence Competence | Detects whether operational literacy and intelligence tradecraft are demonstrated.                                  | Is operational literacy demonstrated?                                  | **Low:** Naïve assumptions about intelligence operations.<br>**High:** Demonstrates IC tradecraft, compartmentation, constraints.      |
+| **Narrative Closure Vector**                     | Disclosure Momentum     | Detects whether disclosure narrows uncertainty rather than expanding mystery.                                       | Does this disclosure move toward resolution, not expansion?            | **Low:** Expands speculative conjecture.<br>**High:** Unifies and narrows investigative trajectories.                                  |
+| **Information Novelty (Non-Recycling)**          | Analytical Integrity    | Detects whether information is meaningfully new rather than recycled.                                               | Is this meaningfully tied to new intelligence?                         | **Low:** Recycled lore or threat narratives.<br>**High:** Previously undisclosed data or evidence.                                     |
+| **Attribution Integrity**                        | Intellectual Honesty    | Detects whether sources and prior work are properly acknowledged.                                                   | Are sources, origins, and prior work properly acknowledged?            | **Low:** Laundered ideas without credit.<br>**High:** Clear lineage and attribution.                                                   |
+| **Institutional Power Targeting**                | Power Confrontation     | Detects whether disclosures identify real, accountable power centers.                                               | Does it challenge real power structures?                               | **Low:** “The system.”<br>**High:** Names offices, agencies, boards, individuals.                                                      |
+| **Timing Coherence**                             | Strategic Integrity     | Detects whether timing serves disclosure rather than hype cycles.                                                   | Does timing serve truth, not hype cycles?                              | **Low:** Timed to media/product launches.<br>**High:** Aligned with oversight or evidentiary readiness.                                |
+| **Contradiction Resolution**                     | Analytical Integrity    | Detects whether inconsistencies are addressed directly.                                                             | Are inconsistencies addressed directly?                                | **Low:** Ignores contradictions.<br>**High:** Explicit reconciliation or admission of error.                                           |
+| **Disclosure Vector Direction**                  | Directional Integrity   | Detects whether disclosure pushes toward resolution rather than theater.                                            | Does this push toward resolution or perpetual disclosure theater?      | **Low:** Endless tease.<br>**High:** Narrows unknowns, collapses ambiguity.                                                            |
+| **Network Dependence**                           | Ecosystem Integrity     | Detects whether credibility relies on closed validation loops.                                                      | Is credibility borrowed from closed ecosystems?                        | **Low:** Circular validation within one network.<br>**High:** Claims stand independently of networks.                                  |
+| **Pressure Resilience**                          | Scrutiny Performance    | Detects whether claims survive adversarial questioning.                                                             | Does the claim survive adversarial questioning?                        | **Low:** Collapses under scrutiny.<br>**High:** Strengthens and clarifies under pressure.                                              |
+| **Community Empowerment**                        | Disclosure Utility      | Detects whether disclosures enable independent community action.                                                    | Does it empower individuals or communities to act independently?       | **Low:** Reliance on elites or insiders.<br>**High:** Encourages research outside networks.                                            |
+| **Inclusivity of Perspectives**                  | Systems Integration     | Detects whether diverse analytic perspectives are integrated.                                                       | Does it integrate diverse viewpoints to strengthen progress?           | **Low:** Echoes one network.<br>**High:** Bridges UFO field with deep-state research.                                                  |
+| **Alternative Pathways**                         | Directional Integrity   | Detects whether disclosures expand viable paths forward.                                                            | Does it offer alternatives to dominant narratives?                     | **Low:** Reinforces mainstream narrative.<br>**High:** Proposes rigorous alternative approaches.                                       |
+| **Forward Momentum**                             | Disclosure Momentum     | Detects whether focus is future-oriented rather than confirmatory.                                                  | Is the focus on future goals rather than past confirmation?            | **Low:** Retells old stories.<br>**High:** Proposes new methods (e.g., dark journalism).                                               |
+| **Temporal Relevance**                           | Strategic Integrity     | Detects whether current events are tied to disclosure goals.                                                        | Does it tie current events to disclosure goals?                        | **Low:** Outdated recaps.<br>**High:** Links live events to ongoing ops or oversight.                                                  |
+| **Holistic Integration**                         | Systems Context         | Detects whether disclosure is situated in broader geopolitical context.                                             | Does it connect disclosure to larger societal/geopolitical contexts?   | **Low:** Narrow phenomenon framing.<br>**High:** Integrates geopolitics, intelligence, black ops.                                      |
+| **Network Mapping**                              | Power Confrontation     | Detects whether relationships and structures are explicitly mapped.                                                 | Does it map connections between entities?                              | **Low:** Isolated claims.<br>**High:** Maps interlocking actors and functions.                                                         |
+| **Measurable Outcomes**                          | Disclosure Utility      | Detects whether clear endpoints or success metrics are defined.                                                     | Are success metrics or milestones defined?                             | **Low:** No endpoints.<br>**High:** Defines outcomes (docs, hearings, audits).                                                         |
+| **Pathway Plurality (False Dilemma Resistance)** | Directional Integrity   | Detects whether a disclosure expands or constrains the solution space.                                              | Does the disclosure preserve multiple viable pathways?                 | **Low:** Forces binary choices.<br>**High:** Preserves multiple investigative paths.                                                   |
